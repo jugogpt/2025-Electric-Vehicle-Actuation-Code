@@ -1,5 +1,5 @@
 
-//skibidi toliet code
+
 // by hugo sanchez
 
 //Pins that control direction of movement of the car
